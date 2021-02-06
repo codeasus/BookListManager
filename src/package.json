@@ -1,0 +1,15 @@
+{
+  "name": "javascript-seven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "popmotion": "^8.7.1"
+  }
+}
